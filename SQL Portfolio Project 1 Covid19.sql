@@ -4,7 +4,6 @@ Covid 19 Data Exploration
 
 Skills used: CTE's, Temp Tables, Windows Functions, Aggregate Functions, Joins, Convert Data Types, Insert function
 
-Inspiration taken from Alex Freburg
 */
 
 
