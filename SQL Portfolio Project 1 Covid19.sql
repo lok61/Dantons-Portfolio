@@ -1,6 +1,6 @@
 
 /*
-Covid 19 Data Exploration
+Covid 19 Project
 
 Skills used: Creating Views, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Joins, Convert Data Types, Insert function
 
