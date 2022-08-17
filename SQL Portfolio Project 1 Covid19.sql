@@ -2,6 +2,8 @@
 /*
 Covid 19 Project
 
+Link to dataset: https://ourworldindata.org/covid-deaths
+
 Skills used: Creating Views, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Joins, Convert Data Types, Insert function
 
 */
